@@ -1,5 +1,5 @@
 # Put application-specific config here (application name: client-config-app)
 some:
-    property: sambuca
+    property: coffee
     other:
-        property: is better
+        property: is good
