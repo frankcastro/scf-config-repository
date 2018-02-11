@@ -3,3 +3,10 @@ some:
     property: coffee
     other:
         property: is really good
+cnumber:
+  - C1:
+      url: 1.1.1.1
+  - C2:
+      url: 2.2.2.2
+  - C3:
+      url: 3.3.3.3
